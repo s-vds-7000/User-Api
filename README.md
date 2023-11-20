@@ -1,8 +1,12 @@
 # React + Vite
 
-Website Image --
-![Assign1](https://github.com/sumitvish20/User-Api/assets/94473575/2c708aea-1b73-4b8d-b605-866141711fb3)
+Project Setup -
+1] Clone 
+2] npm install
+3] npm run dev
 
+Website Image -
+![Assign1](https://github.com/sumitvish20/User-Api/assets/94473575/2c708aea-1b73-4b8d-b605-866141711fb3)
 
 
 Currently, two official plugins are available:
